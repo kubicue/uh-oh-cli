@@ -1,8 +1,3 @@
-module.exports = function uhohcli(cmd, options, what) {
-  this.cmd = cmd;
-  this.options = options;
-  this.what = what;
+module.exports.printCmd = function() {
+  console.log("w | -h -i |Display who is logged in and what they are doing.");
 }
-var zero = new Command("w", "-h -i", "Display who is logged in and what they are doing");
-console.table(zero);
-};
