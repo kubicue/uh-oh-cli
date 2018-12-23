@@ -1,6 +1,6 @@
 {
     "name": "@kubicue/uh-oh-cli",
-    "version": "2.0.0",
+    "version": "2.1.0",
     "description": "The npm module for getting around CLI commands",
     "license": "MIT",
     "repository": "kubicue/uh-oh-cli",
