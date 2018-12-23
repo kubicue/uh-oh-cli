@@ -1,4 +1,4 @@
-module.exports = function uh-oh-cli(cmd, options, what) {
+module.exports = function uhohcli(cmd, options, what) {
   this.cmd = cmd;
   this.options = options;
   this.what = what;
