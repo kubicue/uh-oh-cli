@@ -1,4 +1,3 @@
 # uh-oh-cli
-[![npm(scoped)]
-(https://img.shields.io/github/npm/v/kubicue/uh-oh-cli.svg)]
-(https://github.com/kubicue/uh-oh-cli)
+![alt text](https://img.shields.io/github/license/kubicue/uh-oh-cli.svg "MIT License")
+
