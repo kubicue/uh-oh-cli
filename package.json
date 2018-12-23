@@ -1,4 +1,15 @@
 {
 "name": "@kubicue/uh-oh-cli",
-"version": "1.0.0"
-}
+"version": "1.0.0",
+"description": "The npm module for getting around CLI commands",
+"license": "MIT",
+"repository": "kubicue/uh-oh-cli",
+"main": "index.js",
+"keywords": [
+    "uh-oh-cli",
+    "npm",
+    "package",
+    "kubicue"
+]
+ }
+
